@@ -284,6 +284,11 @@ section {
 
 
 
+
+.service {
+  padding-top: 0;
+}
+
 .service-title {
   margin-bottom: 50px;
   font-weight: 700;
@@ -309,10 +314,6 @@ section {
 
 
 
-
-.teame {
-  padding-top: 0;
-}
 
 .teame-title {
   margin-bottom: 50px;
